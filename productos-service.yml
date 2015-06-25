@@ -1,3 +1,3 @@
 promociones :
-    rebajas : false
+    rebajas : true
     descuento : 0.05
